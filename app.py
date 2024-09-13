@@ -75,7 +75,7 @@ def main():
     
     # Footer
     st.write("---")
-    st.markdown("<p style='text-align: center; color: #808080;'>Developed with ❤️ by [Your Name]</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center; color: #808080;'>Developed with ❤️ by [uwais]</p>", unsafe_allow_html=True)
 
 if __name__ == '__main__':
     main()
